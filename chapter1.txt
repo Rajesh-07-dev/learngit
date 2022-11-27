@@ -1,0 +1,16 @@
+chapter 1 
+
+Maybe I'll put something in here like chapter one.
+
+Hmm.
+
+I'm not sure what I'm going to write in there.
+
+And of course, if I go over here to my terminal, what do we expect to see when I type get status?
+
+Here.
+
+It's telling me, as we've seen before, that there is an untracked file called Chapter one text.
+
+Also, if I go into any of the other files, like how about characters that text or maybe the outline
+

@@ -1,14 +1,10 @@
-changes 1 
-
--- we need Nick, tom , Daisy , and Jordan 
-
 Okay, so I've got a lot more text in here.
 
 I just took it from The Great Gatsby website and I'm going to save.
 
 And now I finished chapter one, I outlined it, and I'm ready to go through the same steps again and
 
-commit.
+commi
 
 So I always start with get status and I'm going to show you one other option for how I can add these
 
